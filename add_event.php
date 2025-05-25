@@ -62,7 +62,7 @@ if ($sendEmail) {
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
 
-            $mail->setFrom('oneandyy@gmail.com', 'Task Scheduler');
+            $mail->setFrom('your email', 'Task Scheduler');
             $mail->addAddress($user['email']);
 
             $mail->isHTML(true);
