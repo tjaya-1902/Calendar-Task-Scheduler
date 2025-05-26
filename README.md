@@ -10,15 +10,15 @@ Key Features
 - Dialogs for adding and viewing event details
 - Backend integration with PHP and MySQL for data storage and retrieval
 
-Login/Register
+Login/Register  
 ![Task-Scheduler](images/Login.png)
 ![Task-Scheduler](images/Register.png)
 
-Add Event
+Add Event  
 ![Task-Scheduler](images/AddEvent.png)
 
-Calendar View
+Calendar View  
 ![Task-Scheduler](images/CalendarView.png)
 
-Table View
+Table View  
 ![Task-Scheduler](images/TableView.png)
