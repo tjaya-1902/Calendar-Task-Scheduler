@@ -11,14 +11,14 @@ Key Features
 - Backend integration with PHP and MySQL for data storage and retrieval
 
 Login/Register
-!![Task-Scheduler](images/Login.png)
-!![Task-Scheduler](images/Register.png)
+![Task-Scheduler](images/Login.png)
+![Task-Scheduler](images/Register.png)
 
 Add Event
-!![Task-Scheduler](images/AddEvent.png)
+![Task-Scheduler](images/AddEvent.png)
 
 Calendar View
-!![Task-Scheduler](images/CalendarView.png)
+![Task-Scheduler](images/CalendarView.png)
 
 Table View
-!![Task-Scheduler](images/TableView.png)
+![Task-Scheduler](images/TableView.png)
