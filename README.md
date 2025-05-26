@@ -9,3 +9,16 @@ Key Features
 - Drag-and-drop event rescheduling
 - Dialogs for adding and viewing event details
 - Backend integration with PHP and MySQL for data storage and retrieval
+
+Login/Register
+!![Task-Scheduler](images/Login.png)
+!![Task-Scheduler](images/Register.png)
+
+Add Event
+!![Task-Scheduler](images/AddEvent.png)
+
+Calendar View
+!![Task-Scheduler](images/CalendarView.png)
+
+Table View
+!![Task-Scheduler](images/TableView.png)
